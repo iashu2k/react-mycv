@@ -7,7 +7,7 @@ const Resume = () => {
   const resume = {
     education: [
       {
-        year: "2018 - ",
+        year: "2018 - Present",
         institute: "Siddaganga Institute of Technology",
         degree: "Bachelor of Engineering - 9.2 CGPA",
         branch: "Computer Science and Engineering",
@@ -27,7 +27,7 @@ const Resume = () => {
     ],
     experience: [
       {
-        year: "2019 -",
+        year: "2019 - Present",
         institute: "DeCoders Coding Club",
         degree: "Member",
         branch: "",
