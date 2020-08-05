@@ -33,7 +33,7 @@ export default function Navbar({ fixed }) {
               <li>
                 <NavLink
                   exact
-                  className="lg:p-4 py-3 px-0 block border-transparent"
+                  className="lg:p-4 py-3 px-0 block border-transparent hover:text-blue-500"
                   activeClassName="lg:border-b-2 lg:border-l-0 border-b-0 border-l-2 border-blue-400"
                   to="/about"
                 >
@@ -43,7 +43,7 @@ export default function Navbar({ fixed }) {
               <li>
                 <NavLink
                   exact
-                  className="lg:p-4 py-3 px-0 block border-transparent"
+                  className="lg:p-4 py-3 px-0 block border-transparent hover:text-blue-500"
                   activeClassName="lg:border-b-2 lg:border-l-0 border-b-0 border-l-2 border-blue-400"
                   to="/resume"
                 >
@@ -53,7 +53,7 @@ export default function Navbar({ fixed }) {
               <li>
                 <NavLink
                   exact
-                  className="lg:p-4 py-3 px-0 block border-transparent"
+                  className="lg:p-4 py-3 px-0 block border-transparent hover:text-blue-500"
                   activeClassName="lg:border-b-2 lg:border-l-0 border-b-0 border-l-2 border-blue-400"
                   to="/portfolio"
                 >
@@ -63,7 +63,7 @@ export default function Navbar({ fixed }) {
               <li>
                 <NavLink
                   exact
-                  className="lg:p-4 py-3 px-0 block border-transparent"
+                  className="lg:p-4 py-3 px-0 block border-transparent hover:text-blue-500"
                   activeClassName="lg:border-b-2 lg:border-l-0 border-b-0 border-l-2 border-blue-400"
                   to="/blogs"
                 >
@@ -73,7 +73,7 @@ export default function Navbar({ fixed }) {
               <li>
                 <NavLink
                   exact
-                  className="lg:p-4 py-3 px-0 block border-transparent"
+                  className="lg:p-4 py-3 px-0 block border-transparent hover:text-blue-500"
                   activeClassName="lg:border-b-2 lg:border-l-0 border-b-0 border-l-2 border-blue-400"
                   to="/contact"
                 >
