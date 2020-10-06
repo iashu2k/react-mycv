@@ -10,9 +10,10 @@ class Home extends Component {
           <div className="border-8 border-gray-100 rounded-full shadow-lg">
             <img
               className="w-min-width h-auto"
-              src='https://doc-0k-9s-docs.googleusercontent.com/docs/securesc/buvef41draumt7uf74n00g5f1lh4qah2/0jrh95ftun6r0ged0hvfu33q1b23u0mc/1602002850000/11653064837184292221/11653064837184292221/1sO4qfQmrJ2YpIfsAjEH0DQks42roWTNn?authuser=0'
+              src="https://i.ibb.co/LNxLznW/profile.png"
               alt="Profile-pic"
             />
+           
           </div>
         </div>
         <div className="flex flex-col justify-start lg:justify-center lg:items-start items-center">
