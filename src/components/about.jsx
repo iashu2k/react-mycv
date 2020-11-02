@@ -17,7 +17,7 @@ class Home extends Component {
           </div>
         </div>
         <div className="flex flex-col justify-start lg:justify-center lg:items-start items-center">
-          <p className="text-sm text-gray-500">Full-Stack Web Developer</p>
+          <p className="text-sm text-gray-500">Web Developer</p>
           <h1 className="lg:text-4xl text-3xl font-extrabold">
             Ashutosh Mishra
           </h1>
@@ -28,11 +28,11 @@ class Home extends Component {
             opportunities.
           </p>
           <div className="mt-8 flex text-xs">
-            <Link to="/contact">
+            <a href="src/assets/Resume.pdf" download>
               <div className="bg-transparent text-center w-32 shadow-lg transition duration-500 ease-in-out hover:bg-blue-500 text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded-full cursor-pointer">
                 Download CV
               </div>
-            </Link>
+            </a>
             <Link to="/contact">
               <div className="bg-transparent text-center ml-2 w-32 shadow-lg transition duration-500 ease-in-out hover:bg-blue-500 text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded-full cursor-pointer">
                 Contact

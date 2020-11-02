@@ -9,7 +9,7 @@ const Resume = () => {
       {
         year: "2018 - Present",
         institute: "Siddaganga Institute of Technology",
-        degree: "Bachelor of Engineering - 9.2 CGPA",
+        degree: "Bachelor of Engineering - 9.24 CGPA",
         branch: "Computer Science and Engineering",
       },
       {
@@ -76,6 +76,10 @@ const Resume = () => {
             name: "Dart",
             percentage: "75%"
           },
+          {
+            name: "Typescript",
+            percentage: "60%"
+          },
         ],
       },
       {
@@ -90,9 +94,13 @@ const Resume = () => {
             percentage: "75%"
           },
           {
-            name: "Dart",
-            percentage: "75%"
+            name: "Firebase",
+            percentage: "70%"
           },
+          {
+            name: "GraphQL",
+            percentage: "50%"
+          }
         ],
       },
       {
@@ -115,6 +123,10 @@ const Resume = () => {
             percentage: "90%"
           },
           {
+            name: "SASS",
+            percentage: "60%"
+          },
+          {
             name: "Flutter SDK",
             percentage: "85%"
           },
@@ -125,11 +137,11 @@ const Resume = () => {
         skills: [
           {
             name: "Git Version Control",
-            percentage: "90%"
+            percentage: "85%"
           },
           {
             name: "Linux Terminal",
-            percentage: "85%"
+            percentage: "75%"
           }
         ],
       }

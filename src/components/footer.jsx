@@ -13,7 +13,7 @@ const Footer = () => {
           Twitter
         </a>
         <a
-          href={"https://www.linkedin.com/in/iashutoshmishra/"}
+          href={"https://www.linkedin.com/in/iashu2k/"}
           target="blank"
           className="text-xs text-gray-600 hover:text-gray-900 cursor-pointer mx-2 flex items-center"
         >
