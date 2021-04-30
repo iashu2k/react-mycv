@@ -32,6 +32,14 @@ const Resume = () => {
         degree: "Member",
         branch: "",
       },
+      {
+        year: "Dec 2020 - Apr 2021",
+        institute:
+          "Tumkur District Regional Cooperative Organic Farmers Organizations Federation Ltd",
+        degree: "App Developer",
+        branch:
+          "Developed an app 'Namma Utpanna (Our Produce)'. A multilingual (Kannada-English) app designed to ease interaction between FPO and farmers. Features in include sharing demand list, inventory management etc.",
+      },
     ],
     certificates: [
       {
@@ -66,19 +74,19 @@ const Resume = () => {
         skills: [
           {
             name: "C++",
-            percentage: "80%"
+            percentage: "80%",
           },
           {
             name: "Javascript",
-            percentage: "75%"
+            percentage: "75%",
           },
           {
             name: "Dart",
-            percentage: "75%"
+            percentage: "75%",
           },
           {
             name: "Typescript",
-            percentage: "60%"
+            percentage: "60%",
           },
         ],
       },
@@ -87,20 +95,20 @@ const Resume = () => {
         skills: [
           {
             name: "NodeJs",
-            percentage: "70%"
+            percentage: "70%",
           },
           {
             name: "MongoDB",
-            percentage: "75%"
+            percentage: "75%",
           },
           {
             name: "Firebase",
-            percentage: "70%"
+            percentage: "70%",
           },
           {
             name: "GraphQL",
-            percentage: "50%"
-          }
+            percentage: "50%",
+          },
         ],
       },
       {
@@ -108,27 +116,27 @@ const Resume = () => {
         skills: [
           {
             name: "HTML + CSS",
-            percentage: "90%"
+            percentage: "90%",
           },
           {
             name: "React + Redux",
-            percentage: "80%"
+            percentage: "80%",
           },
           {
             name: "Bootstrap",
-            percentage: "85%"
+            percentage: "85%",
           },
           {
             name: "Tailwind CSS",
-            percentage: "90%"
+            percentage: "90%",
           },
           {
             name: "SASS",
-            percentage: "60%"
+            percentage: "60%",
           },
           {
             name: "Flutter SDK",
-            percentage: "85%"
+            percentage: "85%",
           },
         ],
       },
@@ -137,14 +145,14 @@ const Resume = () => {
         skills: [
           {
             name: "Git Version Control",
-            percentage: "85%"
+            percentage: "85%",
           },
           {
             name: "Linux Terminal",
-            percentage: "75%"
-          }
+            percentage: "75%",
+          },
         ],
-      }
+      },
     ],
   };
   return (

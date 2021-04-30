@@ -19,6 +19,13 @@ const Portfolio = () => {
       url: "https://anewsai.netlify.app/"
     },
     {
+      name: "Mood Chat",
+      desc: "A video conferencing app to communicate peer to peer with friends​",
+      img: "https://i.ibb.co/PW9vrqH/Screenshot-2021-04-30-MOOD-CHAT.png",
+      stack: ['#React', '#Socket.io', '#Peers', '#Nodejs'],
+      url:'https://moodchat.netlify.app/'
+    },
+    {
       name: "WeatherX",
       desc: "A weather forecast app which shows the current weather of an area with daily and hourly forecast wrt temp, pressure, humidity etc.​",
       img: "https://i.ibb.co/0ZvRT11/Screenshot-2020-10-27-Weather-X.jpg",
@@ -40,7 +47,7 @@ const Portfolio = () => {
       <div className="font-bold text-3xl py-10 border-b border-t  border-gray-300 mt-6">
         Portfolio
       </div>
-      <div className="grid lg:grid-cols-3 grid-cols-1 gap-4 mt-10 container mx-auto">
+      <div className="grid lg:grid-cols-2 grid-cols-1 gap-4 mt-10 container mx-auto">
         {portfolio.map(x=><Project e={x}/>)}
       </div>
     </div>
