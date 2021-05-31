@@ -9,7 +9,7 @@ const Resume = () => {
       {
         year: "2018 - Present",
         institute: "Siddaganga Institute of Technology",
-        degree: "Bachelor of Engineering - 9.24 CGPA",
+        degree: "Bachelor of Engineering - 8.99 CGPA",
         branch: "Computer Science and Engineering",
       },
       {
@@ -33,7 +33,7 @@ const Resume = () => {
         branch: "",
       },
       {
-        year: "Dec 2020 - Apr 2021",
+        year: "Dec 2020 - Jan 2021",
         institute:
           "Tumkur District Regional Cooperative Organic Farmers Organizations Federation Ltd",
         degree: "App Developer",
