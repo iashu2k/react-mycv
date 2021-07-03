@@ -28,7 +28,7 @@ class Home extends Component {
             opportunities.
           </p>
           <div className="mt-8 flex text-xs">
-            <a href="https://drive.google.com/file/d/1Zes0Z-rsqdkVzv5O4GHeFkSg5SLnZr1I/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+            <a href="https://drive.google.com/file/d/1Uhlmn_e38VNGQEzWacCsrae_Fp6Bmqlz/view?usp=sharing" target="_blank" rel="noopener noreferrer">
               <div className="bg-transparent text-center w-32 shadow-lg transition duration-500 ease-in-out hover:bg-blue-500 text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded-full cursor-pointer">
                 Download CV
               </div>
