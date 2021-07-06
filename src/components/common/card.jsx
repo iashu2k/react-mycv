@@ -10,6 +10,7 @@ const Card = ({ e }) => {
       <h1 className="font-semibold text-sm">{e.degree}</h1>
       <p className="mt-2 text-xs text-gray-600 font-medium">{e.branch}</p>
       {e.year === "Dec 2020 - Jan 2021" && (
+        <>
         <a
           href="https://drive.google.com/file/d/1kQR8U7yOaUuzJKhn-aDu5zc8CI21iglW/view?usp=sharing"
           target="_blank"
@@ -18,6 +19,15 @@ const Card = ({ e }) => {
         <p className="mt-2 text-xs text-blue-600 font-medium">View Certificate</p>
           
         </a>
+        <a
+          href="https://iashu2k.github.io/Namma-Utpanna/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+        <p className="mt-2 text-xs text-blue-600 font-medium">View Project</p>
+          
+        </a>
+        </>
       )}
     </div>
   );
