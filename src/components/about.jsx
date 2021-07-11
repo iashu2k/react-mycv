@@ -17,7 +17,7 @@ class Home extends Component {
           </div>
         </div>
         <div className="flex flex-col justify-start lg:justify-center lg:items-start items-center">
-          <p className="text-sm text-gray-500">Web Developer</p>
+          <p className="text-sm text-gray-500"></p>
           <h1 className="lg:text-4xl text-3xl font-extrabold">
             Ashutosh Mishra
           </h1>
